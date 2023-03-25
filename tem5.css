@@ -126,3 +126,8 @@ body{
         display: none;
     }
 }
+@media (width <700px){
+    #main_box .box{
+        width: 100%;
+    }
+}
