@@ -75,7 +75,8 @@ body{
     padding: 15px;
     /* color: white;
     background-color: rgba(0, 191, 255, 0.8); */
-    background-color: white;
+    background-color: rgba(0, 0, 0, 0.85);
+    color: white;
     border-radius: 5px;
     box-shadow: 0px 2px 4px 2px #111;
 
@@ -104,7 +105,7 @@ body{
 .total{
     display: grid;
     place-items: center;
-    border: 1px solid black;
+    border: 1px solid white;
     border-radius: 5px;
 }
 .big_text{
